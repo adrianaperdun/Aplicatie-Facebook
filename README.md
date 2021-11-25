@@ -1,2 +1,2 @@
 # Aplicatie-Facebook
-Program în C++ care imită platforma Facebook.
+Program în C++ care imită unele funcționalități ale platformei Facebook.
